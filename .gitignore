@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# Logs
+=======
 #Logs
+>>>>>>> c9bb2bf9c5752f5d9dea9b5026ae119b81a86902
 logs
 *.log
 npm-debug.log*
@@ -12,7 +16,11 @@ dist
 dist-ssr
 *.local
 
+<<<<<<< HEAD
+# Editor directories and files
+=======
 #Editor directories and files
+>>>>>>> c9bb2bf9c5752f5d9dea9b5026ae119b81a86902
 .vscode/*
 !.vscode/extensions.json
 .idea
